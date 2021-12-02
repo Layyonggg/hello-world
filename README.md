@@ -1,2 +1,2 @@
 # hello-world
-My first repository
+This is Lay Yong, a 3rd year Electronic Engineering student!
